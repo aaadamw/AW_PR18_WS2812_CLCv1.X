@@ -2,6 +2,7 @@
 
 ## Harware controll of WS2812b using CLC CONFIGURABLE LOGIC CELL
 ### Based on Microchip AN1606. The aplication note has couple mistakes.
+* AN1890 can be used to use only one CLC and SPI SRAM as a buffer.
 #### In my case PIC16F15376 is used.
 
 Code generated with MCC

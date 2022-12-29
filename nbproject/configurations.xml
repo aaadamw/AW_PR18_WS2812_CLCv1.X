@@ -48,8 +48,8 @@
       <itemPath>Makefile</itemPath>
       <itemPath>AW_PR18_WS2812_CLCv1.mc3</itemPath>
     </logicalFolder>
-    <itemPath>README.md.txt</itemPath>
     <itemPath>changelog.md.txt</itemPath>
+    <itemPath>README.md</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
